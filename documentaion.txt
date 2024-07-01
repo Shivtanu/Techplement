@@ -1,0 +1,10 @@
+Steps to Use-
+
+Run the Script: Execute the script in your terminal or command prompt using: python week1.py
+
+Provide Input: Answer the prompts to specify the password length and whether to include uppercase letters, lowercase letters, digits, and special characters.
+
+Get Password: The script will generate and display a random password based on your inputs.
+
+This approach simplifies user interaction by directly taking inputs from the console and generates a secure, random password.
+
